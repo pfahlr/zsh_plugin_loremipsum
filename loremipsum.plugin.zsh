@@ -1,5 +1,4 @@
 function loremipsum() {
-#  emulate -L zsh
   amount=5
   what=parags
 
